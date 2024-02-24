@@ -7,18 +7,10 @@ Welcome to the Data Mining Practical Course repository! This repository is dedic
 
 ## Table of Contents
     
-1. [Preprocessing Task](#preprocessing-task)
-2. [Association Rules using Apriori Algorithm](#association-rules-using-apriori-algorithm)
-3. [Linear Regression](#linear-regression)
-4. [Similarity Algorithms](#similarity-algorithms)
-5. [Clustering Algorithms](#clustering-algorithms)
-6. [Kaggle Certificate](#kaggle-certificate)
-    - [Data Cleaning and Pandas Certificate](#data-cleaning-and-pandas-certificate)
-7. [Data Cleaning Problems](#data-cleaning-problems)
-8. [Pandas Problems](#pandas-problems)
+1.1_Certificates_pandas
 
-## 1. Preprocessing Task
-This section contains assignments related to data preprocessing, focusing on techniques to clean and transform raw data into a suitable format for analysis.
+## 1_Certificates_pandas
+This section contains Certificates pandas one cleaning two is pandas
 
 ## 2. Association Rules using Apriori Algorithm
 Explore the implementation of the Apriori algorithm to discover association rules in datasets, providing insights into relationships between different variables.
