@@ -1,16 +1,27 @@
 # Data-Mining
 # Data_mining lab_hw and final_project
-# Good luck 🤞 
+# Good luck
+
+
+
 # Data Mining Practical Course Repository
 
 Welcome to the Data Mining Practical Course repository! This repository is dedicated to showcasing assignments and algorithms completed as part of my data mining practical coursework at Sana'a University.
 
 ## Table of Contents
     
-1.1_Certificates_pandas
+1. 1_Certificates_pandas
+2. [Association Rules using Apriori Algorithm](#association-rules-using-apriori-algorithm)
+3. [Linear Regression](#linear-regression)
+4. [Similarity Algorithms](#similarity-algorithms)
+5. [Clustering Algorithms](#clustering-algorithms)
+6. [Kaggle Certificate](#kaggle-certificate)
+    - [Data Cleaning and Pandas Certificate](#data-cleaning-and-pandas-certificate)
+7. [Data Cleaning Problems](#data-cleaning-problems)
+8. [Pandas Problems](#pandas-problems)
 
 ## 1_Certificates_pandas
-This section contains Certificates pandas one cleaning two is pandas
+This section contains assignments related to data preprocessing, focusing on techniques to clean and transform raw data into a suitable format for analysis.
 
 ## 2. Association Rules using Apriori Algorithm
 Explore the implementation of the Apriori algorithm to discover association rules in datasets, providing insights into relationships between different variables.
