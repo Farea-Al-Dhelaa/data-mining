@@ -10,8 +10,7 @@ Welcome to the Data Mining Practical Course repository! This repository is dedic
 
 ## Table of Contents
     
-1. 1_Certificates_pandas
-2. [Association Rules using Apriori Algorithm](#association-rules-using-apriori-algorithm)
+2. [1_Certificates_pandas](#1_Certificates_pandas)
 3. [Linear Regression](#linear-regression)
 4. [Similarity Algorithms](#similarity-algorithms)
 5. [Clustering Algorithms](#clustering-algorithms)
