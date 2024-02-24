@@ -1,17 +1,13 @@
-# Data-Mining
-# Data_mining lab_hw and final_project
-# Good luck
 
+# Data Mining 
 
-
-# Data Mining Practical Course Repository
-
-Welcome to the Data Mining Practical Course repository! This repository is dedicated to showcasing assignments and algorithms completed as part of my data mining practical coursework at Sana'a University.
+Welcome to the Data Mining  Course repository! This repository is assignments and final projects 
+as part of my data mining practical coursework at Sana'a University.
 
 ## Table of Contents
     
 2. [1_Certificates_pandas](#1_Certificates_pandas)
-3. [Linear Regression](#linear-regression)
+3. [2_Kaggle-Solved-Exercises](#2_Kaggle-Solved-Exercises)
 4. [Similarity Algorithms](#similarity-algorithms)
 5. [Clustering Algorithms](#clustering-algorithms)
 6. [Kaggle Certificate](#kaggle-certificate)
